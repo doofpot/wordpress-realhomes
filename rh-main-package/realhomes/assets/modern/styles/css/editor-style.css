@@ -1,0 +1,98 @@
+.mce-content-body{
+    font-family: "Rubik", sans-serif;
+
+}
+
+
+.wp-block-freeform.block-library-rich-text__tinymce p{
+    color: #808080;
+    font-size: 15px;
+    line-height: 2;
+    margin-bottom: 20px;
+}
+
+.mce-content-body h1,
+.mce-content-body h2,
+.mce-content-body h3,
+.mce-content-body h4,
+.mce-content-body h5,
+.mce-content-body h6 {
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h1 {
+    font-size: 40px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h2 {
+    font-size: 36px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h3 {
+    font-size: 18px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h4 {
+    font-size: 16px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h5 {
+    font-size: 14px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h6 {
+    font-size: 12px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ul,
+.wp-block-freeform.block-library-rich-text__tinymce ol {
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0 0 0 30px;
+    color: #808080;
+    line-height: 2;
+    font-size: 15px;
+    font-weight: 400;
+
+}
+.wp-block-freeform.block-library-rich-text__tinymce li{
+    font-size: 15px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote p {
+    font-size: 17px;
+    margin: 0;
+    color: #808080;
+    font-weight: 400;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote {
+    background-color: rgba(30, 166, 154, 0.1);
+    border-color: #1ea69a;
+    border-left: 5px solid #1ea69a;
+    position: relative;
+    margin: 0 0 20px 0;
+    padding: 34px 36px 46px 56px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote:before {
+    color: #c6cdd1;
+    content: "\f10d";
+    font-family: FontAwesome;
+    position: absolute;
+    top: 30px;
+    left: 28px;
+    display: inline-block;
+    /*font: normal normal normal 14px/1 FontAwesome;*/
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    transform: translate(0, 0);
+    font-size: 24px;
+}
